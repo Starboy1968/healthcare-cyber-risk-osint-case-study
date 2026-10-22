@@ -45,11 +45,13 @@
 - **No fabrication.** Facts link to sources (accessed Oct 22, 2026). Inferences are labeled.
 
 ## Related projects
-- [ai-supply-chain-risk-assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment): 9 scored AI supply chain risks, controls, KRIs, 30/60/90 plan
+- [AI Supply Chain Risk Assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment): nine scored AI-related supply chain risks, with controls, warning indicators (KRIs) and a 30/60/90-day plan.
+- [AI-Assisted Risk Analysis](https://github.com/Starboy1968/ai-assisted-risk-analysis): a reusable risk-analysis prompt and a worked example where an AI first draft is checked and corrected by a human reviewer.
+- [Reading the Room: Power and Behavior Risk Indicators](https://github.com/Starboy1968/power-behavior-risk-indicators): observable signs of how power, incentives and group behavior shape risk decisions, and how to turn them into solid findings.
+- [Behavioral Supply Chain Risk: Human Factors, AI, and Audit](https://github.com/Starboy1968/behavioral-supply-chain-risk-audit-ai): how bias and pressure create supply chain risk, and how AI triage, audit evidence and human review help catch it.
+- [Playing the Risk Game: Game Theory for Supply Chain Risk and AI Governance](https://github.com/Starboy1968/supply-chain-ai-governance-strategy): plain-language game theory that explains why supply chain and AI risks persist, and which incentives to change.
+- [AI in Supply Chain Operations: A Strategist's Field Guide](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs, and what to check before trusting it.
 - [grc-control-mapper](https://github.com/Starboy1968/grc-control-mapper): maps policy text to NIST 800-53 Rev 5 with gap analysis and a review queue
-- [behavioral-supply-chain-risk-audit-ai](https://github.com/Starboy1968/behavioral-supply-chain-risk-audit-ai): human factors, AI triage and audit evidence
-- [power-behavior-risk-indicators](https://github.com/Starboy1968/power-behavior-risk-indicators): observable power and behavior indicators for GRC and third-party risk
-- [ai-assisted-risk-analysis](https://github.com/Starboy1968/ai-assisted-risk-analysis): AI draft, human review, corrected risk register
 - [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory): finding hidden tier-2 single points of failure
 - [emudhra-weak-key-incident-analysis](https://github.com/Starboy1968/emudhra-weak-key-incident-analysis): third-party post-mortem of a CA weak-key incident
 - [supply-web-audit](https://github.com/Starboy1968/supply-web-audit): plain-English supply risk audit for small and mid-size businesses
