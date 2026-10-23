@@ -51,6 +51,7 @@
 - [Behavioral Supply Chain Risk: Human Factors, AI, and Audit](https://github.com/Starboy1968/behavioral-supply-chain-risk-audit-ai): how bias and pressure create supply chain risk, and how AI triage, audit evidence and human review help catch it.
 - [Playing the Risk Game: Game Theory for Supply Chain Risk and AI Governance](https://github.com/Starboy1968/supply-chain-ai-governance-strategy): plain-language game theory that explains why supply chain and AI risks persist, and which incentives to change.
 - [AI in Supply Chain Operations: A Strategist's Field Guide](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs, and what to check before trusting it.
+- [AI for CISA and IT Auditors: Creative Workflow Accelerators](https://github.com/Starboy1968/ai-for-it-auditors): nine practical ways AI can speed up IT audit work, from walkthroughs and SOC 2 review to auditing AI, with a human check at every step.
 - [grc-control-mapper](https://github.com/Starboy1968/grc-control-mapper): maps policy text to NIST 800-53 Rev 5 with gap analysis and a review queue
 - [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory): finding hidden tier-2 single points of failure
 - [emudhra-weak-key-incident-analysis](https://github.com/Starboy1968/emudhra-weak-key-incident-analysis): third-party post-mortem of a CA weak-key incident
